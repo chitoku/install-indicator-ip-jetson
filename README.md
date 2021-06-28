@@ -1,6 +1,6 @@
 # install-indicator-ip-jetson
 
-Helper script to install Daniel Kraus (@bovender)'s `indicator-ip` on NVIDIA Jetson.
+Helper script to install Daniel Kraus (@bovender)'s `[indicator-ip](https://github.com/bovender/indicator-ip)` on NVIDIA Jetson.
 
 ## How to use
 
