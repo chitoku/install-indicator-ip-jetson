@@ -10,4 +10,4 @@ sudo apt-get install -y libcanberra-gtk-module libcanberra-gtk-module
 
 indicator-ip --autostart
 
-vi ~/.confgi/autostart/indicator-ip.desktop
+./edit_autostart.sh
